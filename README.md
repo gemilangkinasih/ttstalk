@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">⚡ TTStalk Analytics CLI ⚡</h1>
+  <h1 align="center">TTSTALK ANALYTICS CLI</h1>
   <p align="center">
     <strong>Alat CLI Analitik Profil TikTok Ringan, Cepat & Tanpa API Key</strong>
   </p>
